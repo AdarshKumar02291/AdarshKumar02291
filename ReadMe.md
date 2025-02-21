@@ -1,5 +1,5 @@
 # 💫 About Me:
-Next JS Developer at Nyxify Technology
+Full Stack Developer at 4Sure.tech
 
 
 ## 🌐 Socials:
